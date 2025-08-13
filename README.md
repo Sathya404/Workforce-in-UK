@@ -1,6 +1,6 @@
-# Jobs-in-UK
+# Workforce-in-UK
 
-# 🇬🇧 Jobs-in-UK
+# 🇬🇧 Workforce-in-UK
 
 The **Workforce Analysis Application** is a comprehensive dashboard solution developed to aid workforce planning, trend analysis, and strategic decision-making across various sectors in the UK. This project is part of my **portfolio** to showcase skills in data analysis, visualization, and full-stack application development using Python-based frameworks.
 
